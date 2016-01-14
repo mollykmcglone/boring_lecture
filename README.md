@@ -4,4 +4,4 @@
 
 ## Description
 
-_This is a simple website I created to practice styling html with classes}_
+_This is a simple website I created to practice styling html with classes_
