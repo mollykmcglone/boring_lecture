@@ -4,7 +4,11 @@ p.intro {
 }
 
 p.author {
-  width: 75%;
+  width: 50%;
   font-style: italic;
   font-weight: bold;
+}
+
+.important {
+  color: red;
 }
